@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRecipeBook</string>
+    <string name="app_title">Recipe Finder</string>
+    <string name="title">Add your Recipe here !</string>
+    <string name="submit">Submit!</string>
+    <string name="ingredients">Ingredients: e.g: tomato, sugar...</string>
+    <string name="search">Search term: e.g: meatloaf...</string>
+    <string name="tag1">WE HELP YOU</string>
+    <string name="tag2">NOTE IT !!</string>
+    <string name="Ingredients">Ingredients :</string>
+    <string name="redirect">Redirecting to the web browser....</string>
+    <string name="description">Descriptions</string>
+    <string name="recipeName">Recipe Name</string>
+</resources>
